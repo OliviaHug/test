@@ -1,2 +1,2 @@
 # test
-Ceci est un test de création de projet
+Ceci est un test de création de projet, et cette documentation à été modifiée par la suite...
